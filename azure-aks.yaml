@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: mypythondockerrepo
-        image: myacrrepo41.azurecr.io/DeekshaVarshney12/MAcrdemo1:latest
+        image: myacrrepo41.azurecr.io/deekshavarshney12/macrdemo1:17
         ports:
         - containerPort: 5000
 # service type loadbalancer       
